@@ -130,16 +130,12 @@ Stay ethical — **Firewall Breaker** community promotes **learning & safety**, 
 ---
 ## 📌 Contact Me  
 
-<a href="https://youtube.com/@firewallbreaker09">
+<a href="https://youtube.com/@HimanshuJha-js6od">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>  
 <br>  
 
-<a href="https://github.com/thakur2309?tab=repositories">
+<a href="https://github.com/sasukeuchiha789">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>  
 <br>  
-
-<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
-  <img src="https://img.shields.io/badge/WhatsApp-F77737?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
-</a>
